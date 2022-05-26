@@ -17,6 +17,6 @@
 
 ▣ [5장: 강화학습 심화 1 - 그리드월드와 근사함수](https://github.com/20170375/rl_study/blob/main/5%EC%9E%A5%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EC%8B%AC%ED%99%94%201:%20%EA%B7%B8%EB%A6%AC%EB%93%9C%EC%9B%94%EB%93%9C%EC%99%80%20%EA%B7%BC%EC%82%AC%ED%95%A8%EC%88%98.md)
 
-▣ 6장: 강화학습 심화 2 - 카트폴
+▣ [6장: 강화학습 심화 2 - 카트폴](https://github.com/20170375/rl_study/blob/main/6%EC%9E%A5%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EC%8B%AC%ED%99%94%202:%20%EC%B9%B4%ED%8A%B8%ED%92%80.md)
 
 ▣ 7장: 강화학습 심화 3 - 아타리
