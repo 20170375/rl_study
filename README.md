@@ -19,4 +19,4 @@
 
 ▣ [6장: 강화학습 심화 2 - 카트폴](https://github.com/20170375/rl_study/blob/main/6%EC%9E%A5%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EC%8B%AC%ED%99%94%202:%20%EC%B9%B4%ED%8A%B8%ED%92%80.md)
 
-▣ 7장: 강화학습 심화 3 - 아타리
+▣ [7장: 강화학습 심화 3 - 아타리](https://github.com/20170375/rl_study/blob/main/7%EC%9E%A5%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EC%8B%AC%ED%99%94%203:%20%EC%95%84%ED%83%80%EB%A6%AC.md)
