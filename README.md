@@ -1,5 +1,6 @@
 # rl_study
 <img src=https://user-images.githubusercontent.com/62216628/169034594-040cb6b9-7677-4467-8321-397fe5b86685.png height=300px></img>
+<img src=https://user-images.githubusercontent.com/62216628/170974252-f9978de5-19eb-4c79-a5c4-adc599e8c0e8.png height=300px/>
 
 
 [『파이썬과 케라스로 배우는 강화학습』](https://www.hanbit.co.kr/store/books/look.php?p_code=B8950212853) 내용 정리본입니다.
